@@ -1,4 +1,5 @@
 # ShootAR
+
 This is our graduation project for [Computer & Informatics Engineering Department of Technological Educational
 Institute of Western Greece](http://www.cied.teiwest.gr).
 
@@ -140,9 +141,6 @@ ioannis_spyr@yahoo.gr.
 ## Authors
 John Spyropoulos, a.k.a. AnimaRain \<ioannis_spyr@yahoo.gr\> | [@rainsoulwhisper](https://twitter.com/rainsoulwhisper)<br/>
 Ioannis Tantaoui
-
-## Credits
-A thank–you to Petros Kouvariotis for being an awesome friend, playtester and supporter!
 
 Unity store assets used:<br/>
 Drone: https://assetstore.unity.com/packages/3d/low-poly-combat-drone-82234<br/>
